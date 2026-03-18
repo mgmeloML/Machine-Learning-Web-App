@@ -83,8 +83,6 @@ The app uses a pre-trained semantic similarity model to interpret your intent.
 
 ## 📸 Screenshots
 
-> _Add screenshots here once deployed — a quick screen recording goes a long way!_
-
 ---
 
 ## 🙌 Acknowledgements
